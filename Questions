@@ -14,7 +14,7 @@ Questions to be answered :
 
 7. Determine the distribution of orders by hour of the day.
 
-8. Join relevant tables to find the category-wise distribution of pizzas.
+8. Use relevant tables to find the category-wise distribution of pizzas.
 
 9.Group the orders by date and calculate the average number of pizzas ordered per day.
 
